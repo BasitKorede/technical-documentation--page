@@ -19,7 +19,7 @@ display: flex;
     justify-content: flex-end;
 }
 .bar{
-    background-color;
+    
     color:#fff;
     text-decoration: none;
     margin: 10px;
@@ -31,7 +31,7 @@ display: flex;
 }
 .bar:hover{
     background-color: #90ee90;
-    /* color: #000; */
+    color: #000;
 }
 #navbar{
 display: block;
@@ -50,7 +50,7 @@ float: left;
    margin-right: auto; */ 
 }
 
-@media screeen and(min-width: 480px) {
+@media screeen and(min-width:770px) {
     #navbar{
         background-color: yellow;
     }
